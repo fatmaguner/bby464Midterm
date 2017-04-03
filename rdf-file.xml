@@ -1,0 +1,171 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:si="https://www.w3schools.com/rdf/">
+
+<rdf:Description rdf:about="book">
+  <si:book_id>1</si:book_id>
+  <si:isbn>9751015448</si:isbn>	
+  <si:book_name>Çalıkuşu</si:book_name>
+  <si:publish_date>2007</si:publish_date>
+  <si:author_name>Reşat Nuri Güntekin</si:author_name>
+  <si:publisher_name>>İnkılap Yayınları</si:publisher_name>
+  <si:price>28,00 TL</si:price>
+</rdf:Description>
+
+<rdf:Description rdf:about="book">
+  <si:book_id>2</si:book_id>
+  <si:isbn>9757544426</si:isbn>	
+  <si:book_name>Huzur Sokağı</si:book_name>
+  <si:publish_date>2013</si:publish_date>
+  <si:author_name>Şule Yüksel Şenler</si:author_name>
+  <si:publisher_name>Timaş Yayınları</si:publisher_name>
+  <si:price>17,50 TL</si:price>
+</rdf:Description>
+
+<rdf:Description rdf:about="book">
+  <si:book_id>3</si:book_id>
+  <si:isbn>9789759893729</si:isbn>	
+  <si:book_name>İyi Hissetmek</si:book_name>
+  <si:publish_date>2006</si:publish_date>
+  <si:author_name>David Burns</si:author_name>
+  <si:publisher_name>Psikonet Yayınları</si:publisher_name>
+  <si:price>18,75 TL</si:price>
+</rdf:Description>
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>4</si:book_id>
+  <si:isbn>9786053751670</si:isbn>	
+  <si:book_name>Fahrenheit 451</si:book_name>
+  <si:publish_date>2012</si:publish_date>
+  <si:author_name>Ray Bradbury</si:author_name>
+  <si:publisher_name>İthaki Yayınları</si:publisher_name>
+  <si:price>9,75 TL</si:price>
+</rdf:Description>
+
+<rdf:Description rdf:about="book">
+  <si:book_id>5</si:book_id>
+  <si:isbn>9786054994526</si:isbn>	
+  <si:book_name>Aşkın İstilası-Yol</si:book_name>
+  <si:publish_date>2014</si:publish_date>
+  <si:author_name>Metin Hara</si:author_name>
+  <si:publisher_name>Destek Yayınları</si:publisher_name>
+  <si:price>14,40 TL</si:price>
+</rdf:Description>
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>6</si:book_id>
+  <si:isbn>9789751026491</si:isbn>	
+  <si:book_name>Yaprak Dökümü</si:book_name>
+  <si:publish_date>2002</si:publish_date>
+  <si:author_name>Reşat Nuri Güntekin</si:author_name>
+  <si:publisher_name>İnkılap Yayınları</si:publisher_name>
+  <si:price>14,70 TL</si:price>
+</rdf:Description>	
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>7</si:book_id>
+  <si:isbn>9789753638029</si:isbn>	
+  <si:book_name>Kürk Mantolu Madonna</si:book_name>
+  <si:publish_date>2016</si:publish_date>
+  <si:author_name>Sabahattin Ali</si:author_name>
+  <si:publisher_name>Yapı Kredi Yayınları</si:publisher_name>
+  <si:price>8,40 TL</si:price>
+</rdf:Description>		
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>8</si:book_id>
+  <si:isbn>9786054994861</si:isbn>	
+  <si:book_name>Fi</si:book_name>
+  <si:publish_date>2014</si:publish_date>
+  <si:author_name>Akilah Azra Kohen</si:author_name>
+  <si:publisher_name>Destek Yayınları</si:publisher_name>
+  <si:price>19,20 TL</si:price>
+</rdf:Description>
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>9</si:book_id>
+  <si:isbn>9789750800016</si:isbn>	
+  <si:book_name>Kuyucaklı Yusuf</si:book_name>
+  <si:publish_date>2001</si:publish_date>
+  <si:author_name>Sabahattin Ali</si:author_name>
+  <si:publisher_name>Yapı Kredi Yayınları</si:publisher_name>
+  <si:price>9,20 TL</si:price>
+</rdf:Description>	
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>10</si:book_id>
+  <si:isbn>9789752894624</si:isbn>	
+  <si:book_name>Ekmek Kavgası</si:book_name>
+  <si:publish_date>2008</si:publish_date>
+  <si:author_name>Orhan Kemal</si:author_name>
+  <si:publisher_name>Everest Yayınları</si:publisher_name>
+  <si:price>9,10 TL</si:price>
+</rdf:Description>	
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>11</si:book_id>
+  <si:isbn>9786053606116</si:isbn>	
+  <si:book_name>Satranç</si:book_name>
+  <si:publish_date>2012</si:publish_date>
+  <si:author_name>Stefan Zweig</si:author_name>
+  <si:publisher_name>Avrupa Yakası Yayınları</si:publisher_name>
+  <si:price>4,55 TL</si:price>
+</rdf:Description>	
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>12</si:book_id>
+  <si:isbn>9786050939828</si:isbn>	
+  <si:book_name>Huzursuzluk</si:book_name>
+  <si:publish_date>2017</si:publish_date>
+  <si:author_name>Zülfü Livaneli</si:author_name>
+  <si:publisher_name>Doğan Yayınları</si:publisher_name>
+  <si:price>10,50 TL</si:price>
+</rdf:Description>	
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>13</si:book_id>
+  <si:isbn>9789750835605</si:isbn>	
+  <si:book_name>Kırmızı Saçlı Kadın</si:book_name>
+  <si:publish_date>2016</si:publish_date>
+  <si:author_name>Orhan Pamuk</si:author_name>
+  <si:publisher_name>Yapı Kredi Yayınları</si:publisher_name>
+  <si:price>8,40 TL</si:price>
+</rdf:Description>	
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>14</si:book_id>
+  <si:isbn>9789750802447</si:isbn>	
+  <si:book_name>Aylak Adam</si:book_name>
+  <si:publish_date>2007</si:publish_date>
+  <si:author_name>Yusuf Atılgan</si:author_name>
+  <si:publisher_name>Yapı Kredi Yayınları</si:publisher_name>
+  <si:price>7,00 TL</si:price>
+</rdf:Description>		
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>15</si:book_id>
+  <si:isbn>9789750734335</si:isbn>	
+  <si:book_name>Kul</si:book_name>
+  <si:publish_date>2017</si:publish_date>
+  <si:author_name>Seray Şahiner</si:author_name>
+  <si:publisher_name>Can Yayınları</si:publisher_name>
+  <si:price>9,10 TL</si:price>
+</rdf:Description>
+	
+<rdf:Description rdf:about="book">
+  <si:book_id>16</si:book_id>
+  <si:isbn>9789750520976</si:isbn>	
+  <si:book_name>Müptezeller</si:book_name>
+  <si:publish_date>2016</si:publish_date>
+  <si:author_name>Emrah Serbest</si:author_name>
+  <si:publisher_name>İletişim Yayıncılık</si:publisher_name>
+  <si:price>12,41 TL</si:price>
+</rdf:Description>	
+	
+	
+</rdf:RDF> 
+         
+ 
+     
